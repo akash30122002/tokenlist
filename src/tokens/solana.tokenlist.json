@@ -17605,6 +17605,21 @@
         "website": "https://lordarena.com"
       }
     }
+    {
+      "chainId": 103,
+      "address": "DkFJNvzYsp7LhkLRvjQJ39txuR9Rj38THyrzpoExdExQ",
+      "symbol": "AMUG",
+      "name": "AKAMAUGICoin",
+      "decimals": 0,
+      "logoURI": "",
+      "tags": [
+        "NFT"
+      ],
+      "extensions": {
+        "website": "https://akash.ovelosec.com"
+      }
+    }
+
   ],
   "version": {
     "major": 0,
